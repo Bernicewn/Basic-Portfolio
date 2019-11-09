@@ -1,0 +1,26 @@
+.nav{
+    font-family: 'McLaren', cursive;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.new{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    background-color: blueviolet;
+}
+
+.p3{
+    font-family: 'McLaren', cursive;
+    font-family: 'Liu Jian Mao Cao', cursive;
+}
+.btn btn-primary btn-lg {
+    background-color: blueviolet; /* BlueViolet */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
